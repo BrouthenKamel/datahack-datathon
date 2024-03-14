@@ -1,0 +1,242 @@
+{
+    "Alger": {
+        "lon": 3.0588,
+        "lat": 36.7538,
+        "pos": "c"
+    },
+    "Jijel": {
+        "lon": 5.7634,
+        "lat": 36.821,
+        "pos": "e"
+    },
+    "Khenchela": {
+        "lon": 7.146,
+        "lat": 35.4269,
+        "pos": "e"
+    },
+    "Oran": {
+        "lon": 5.7634,
+        "lat": 35.6987,
+        "pos": "w"
+    },
+    "Constantine": {
+        "lon": 6.639,
+        "lat": 36.357,
+        "pos": "e"
+    },
+    "Mila": {
+        "lon": 6.2584,
+        "lat": 36.4519,
+        "pos": "e"
+    },
+    "Batna": {
+        "lon": 6.1597,
+        "lat": 35.5446,
+        "pos": "e"
+    },
+    "S\u00e9tif": {
+        "lon": 5.4108,
+        "lat": 36.1898,
+        "pos": "e"
+    },
+    "M\u00e9d\u00e9a": {
+        "lon": 2.7587,
+        "lat": 36.2636,
+        "pos": "c"
+    },
+    "El Oued": {
+        "lon": 6.8517,
+        "lat": 33.3678,
+        "pos": "e"
+    },
+    "Blida": {
+        "lon": 2.8323,
+        "lat": 36.4736,
+        "pos": "c"
+    },
+    "Bouira": {
+        "lon": 3.898,
+        "lat": 36.3737,
+        "pos": "c"
+    },
+    "A\u00efn T\u00e9mouchent": {
+        "lon": 1.1392,
+        "lat": 35.3039,
+        "pos": "w"
+    },
+    "Boumerd\u00e8s": {
+        "lon": 3.4731,
+        "lat": 36.7591,
+        "pos": "c"
+    },
+    "Bordj Bou Arreridj": {
+        "lon": 4.763,
+        "lat": 36.074,
+        "pos": "c"
+    },
+    "Mostaganem": {
+        "lon": 0.0909,
+        "lat": 35.9311,
+        "pos": "w"
+    },
+    "Tipaza": {
+        "lon": 2.4434,
+        "lat": 36.5907,
+        "pos": "c"
+    },
+    "Tlemcen": {
+        "lon": 1.3167,
+        "lat": 34.8829,
+        "pos": "w"
+    },
+    "B\u00e9ja\u00efa": {
+        "lon": 5.0558,
+        "lat": 36.7515,
+        "pos": "c"
+    },
+    "Skikda": {
+        "lon": 6.9055,
+        "lat": 36.8621,
+        "pos": "e"
+    },
+    "Ouargla": {
+        "lon": 5.3335,
+        "lat": 31.9527,
+        "pos": "d"
+    },
+    "Annaba": {
+        "lon": 7.75,
+        "lat": 36.8974,
+        "pos": "e"
+    },
+    "Chlef": {
+        "lon": 1.3372,
+        "lat": 36.1581,
+        "pos": "w"
+    },
+    "Tizi Ouzou": {
+        "lon": 4.0473,
+        "lat": 36.7135,
+        "pos": "c"
+    },
+    "Sa\u00efda": {
+        "lon": 0.1481,
+        "lat": 34.8382,
+        "pos": "w"
+    },
+    "T\u00e9bessa": {
+        "lon": 8.1173,
+        "lat": 35.4011,
+        "pos": "e"
+    },
+    "B\u00e9char": {
+        "lon": 2.2162,
+        "lat": 31.6238,
+        "pos": "d"
+    },
+    "Biskra": {
+        "lon": 5.7277,
+        "lat": 34.8537,
+        "pos": "e"
+    },
+    "M'Sila": {
+        "lon": 4.5233,
+        "lat": 35.7187,
+        "pos": "c"
+    },
+    "A\u00efn Defla": {
+        "lon": 1.9563,
+        "lat": 36.2552,
+        "pos": "w"
+    },
+    "Souk Ahras": {
+        "lon": 7.9383,
+        "lat": 36.28,
+        "pos": "e"
+    },
+    "Mascara": {
+        "lon": 0.14,
+        "lat": 35.4021,
+        "pos": "w"
+    },
+    "Laghouat": {
+        "lon": 2.8629,
+        "lat": 33.808,
+        "pos": "d"
+    },
+    "Sidi Bel Abb\u00e8s": {
+        "lon": 0.63,
+        "lat": 35.2106,
+        "pos": "w"
+    },
+    "Tiaret": {
+        "lon": 1.3218,
+        "lat": 35.3709,
+        "pos": "w"
+    },
+    "Oum El Bouaghi": {
+        "lon": 7.1108,
+        "lat": 35.8689,
+        "pos": "e"
+    },
+    "Guelma": {
+        "lon": 7.4331,
+        "lat": 36.4627,
+        "pos": "e"
+    },
+    "Relizane": {
+        "lon": 0.5579,
+        "lat": 35.745,
+        "pos": "w"
+    },
+    "Gharda\u00efa": {
+        "lon": 3.6445,
+        "lat": 32.4944,
+        "pos": "d"
+    },
+    "Djelfa": {
+        "lon": 3.2504,
+        "lat": 34.6704,
+        "pos": "d"
+    },
+    "Adrar": {
+        "lon": 0.2894,
+        "lat": 27.8809,
+        "pos": "d"
+    },
+    "Na\u00e2ma": {
+        "lon": 0.3129,
+        "lat": 33.2667,
+        "pos": "d"
+    },
+    "Tissemsilt": {
+        "lon": 1.8131,
+        "lat": 35.6054,
+        "pos": "c"
+    },
+    "Tamanrasset": {
+        "lon": 5.5361,
+        "lat": 22.7942,
+        "pos": "d"
+    },
+    "El Tarf": {
+        "lon": 8.2213,
+        "lat": 36.7559,
+        "pos": "e"
+    },
+    "El Bayadh": {
+        "lon": 73.2145,
+        "lat": 23.226,
+        "pos": "d"
+    },
+    "Illizi": {
+        "lon": 8.483,
+        "lat": 26.5081,
+        "pos": "d"
+    },
+    "Tindouf": {
+        "lon": 8.1284,
+        "lat": 27.6771,
+        "pos": "d"
+    }
+}
